@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Екатерина](https://up.htmlacademy.ru/htmlcss/38/user/2417493).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Осадченко](https://htmlacademy.ru/profile/dimaos).
 
 ---
 
